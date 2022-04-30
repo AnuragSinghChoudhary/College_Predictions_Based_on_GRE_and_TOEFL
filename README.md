@@ -2,8 +2,7 @@
 # GRE-Admission-Prediction
 Predict the probability of admission using Linear regression.
 
-The analysis will help in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. It will also help predict one's chances of admission given the rest of the variables.
-This dataset is created for prediction of Graduate Admissions from an Indian perspective.
+This project is the prediction of the admission to graduate schools in abroad using the scores of GRE, TOEFL, CGPA and other factors.It will help predict one's chances of admission given the rest of the variables.
 
 The dataset can be obtained from the Kaggle website https://www.kaggle.com/mohansacharya/graduate-admissions . 
 ## content
